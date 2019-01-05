@@ -1,6 +1,8 @@
 Course mini-project for CMPUT 551: Introduction to Machine Learning, for the Fall 2017 semester at the University of Alberta.
 
-It is an empirical study of a number of matrix factorization techinques for interpolating missing data within an electrodiagnostic nerve data set. See the paper for details.
+It is an empirical study of a number of matrix factorization techinques for interpolating missing data within an 
+
+electrodiagnostic nerve data set. See the paper for details.
 
 
 ##############
